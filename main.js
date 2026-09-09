@@ -1,7 +1,7 @@
 // Declare an array named superheros, inside it put three superheros, then randomly acces one superhero and store its value inside an variable and print it.
 
 
-let herNames = ["Rashi","Rozy","BossLady","Moti","Muhinjo Chand", "Muhinji Jal", "Catsy", "Sunshine"];
+let herNames = ["Rashi","Rozy","BossLady","Moti"," Chand", "Jal", "Catsy", "Sunshine"];
 
 
 // Generate random number
@@ -17,7 +17,7 @@ console.log(ladyOfTheDay);
 
 
 // Create personalized greeting
-let greeting = `Hii there My ${ladyOfTheDay}, I hope you're having a great day. 
+let greeting = `Hii there Muhinji ${ladyOfTheDay}, I hope you're having a great day. 
 This message has been traveling since centuries to meet her ${ladyOfTheDay}, 
 and to tell her: Thang se soya kar aur khaya kar ${ladyOfTheDay}`;
 
